@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(#36d1dc 0%,#ffc371 100%);
+    font-family:sans-serif;
+}
+img{
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+}
+.navbar-brand
+{
+    position: absolute;
+    width: 101%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
+h1{
+    height: 5px;
+}
